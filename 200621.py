@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jun 20 13:04:30 2021
-
+#edit online
 @author: 20315914
 """
 from functools import *
